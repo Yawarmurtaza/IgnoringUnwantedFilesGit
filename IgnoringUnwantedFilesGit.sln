@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnoringUnwantedFilesGit", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreFramework", "AspNetCoreFramework\AspNetCoreFramework.csproj", "{32E5125A-C842-40FC-8501-8AFF63B0B414}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibraryProject.Model", "CoreLibraryProject.Model\CoreLibraryProject.Model.csproj", "{6F3F66DA-9CC9-4DD5-8086-6CC5C0EEB67D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32E5125A-C842-40FC-8501-8AFF63B0B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32E5125A-C842-40FC-8501-8AFF63B0B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32E5125A-C842-40FC-8501-8AFF63B0B414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3F66DA-9CC9-4DD5-8086-6CC5C0EEB67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3F66DA-9CC9-4DD5-8086-6CC5C0EEB67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3F66DA-9CC9-4DD5-8086-6CC5C0EEB67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3F66DA-9CC9-4DD5-8086-6CC5C0EEB67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
